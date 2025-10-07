@@ -20,5 +20,4 @@ public static void main(String[] args) {
         System.out.println("El area del triangulo es: " + triangulo.calcularArea());   
     }
 }
-    
 
